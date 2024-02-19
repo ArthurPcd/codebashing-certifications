@@ -23,10 +23,4 @@ Here you will find all the certifications that I have obtained and completed. [R
  
 More to come..🏗️'
 
----------------
-[Find Certificates in Announcement](https://github.com/ArthurPcd/codebashing-certifications/discussions)    
-
-
-
-Merci pour votre support !  Thanks for your support !  
-[![Like Button](https://img.shields.io/badge/Like-%E2%9D%A4-red)](javascript:likeButtonClick())  ![Like Count](https://img.shields.io/badge/dynamic/json?color=green&label=Like&query=$.likeCount&url=https://api.countapi.xyz/get/ArthurPcd/codebashing-certifications/likeCount)
+## [[📣] Annonces - Announcements](https://github.com/ArthurPcd/codebashing-certifications/discussions)    
